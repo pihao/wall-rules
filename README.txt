@@ -2,8 +2,8 @@ wall-rules
 ==========
 
 Shadowrocket:
-https://raw.githubusercontent.com/pihao/wall-rules/main/shadowrocket.conf
-https://cdn.jsdelivr.net/gh/pihao/wall-rules@main/shadowrocket.conf
+https://raw.githubusercontent.com/pihao/wall-rules/main/shadowrocket-gh.conf
+https://cdn.jsdelivr.net/gh/pihao/wall-rules@main/shadowrocket-jsdelivr.conf
 
 
 SEE

@@ -1,0 +1,50 @@
+# https://docs.github.com/cn/actions/reference/context-and-expression-syntax-for-github-actions#
+# https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idoutputs
+# https://github.com/actions/checkout#push-a-commit-using-the-built-in-token
+
+name: Update config
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  schedule:
+    - cron: '30 0 * * 5'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Set up Golang env
+      id: go
+      uses: actions/setup-go@v1
+      with:
+        go-version: 1.16
+
+    - name: Check out code
+      uses: actions/checkout@v2
+
+    - name: Build
+      run: go build -v .
+
+    - name: Update
+      run: ./wall-rules
+
+    - name: Check changes
+      id: change-changes
+      run: echo "::set-output name=status::$((git status --porcelain | grep -q .) && echo changed || echo clean)"
+
+    - name: Clean tips
+      if: ${{ steps.change-changes.outputs.status == 'clean' }}
+      run: echo 'up-to-date'
+
+    - name: Commit changes
+      if: ${{ steps.change-changes.outputs.status == 'changed' }}
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "Action: update config"
+        git push

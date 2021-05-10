@@ -4424,6 +4424,7 @@ var block = [
     "neowin.net",
     "nepusoku.com",
     "net-fits.pro",
+    "netalert.me",
     "bbs.netbig.com",
     "netbirds.com",
     "netcolony.com",

@@ -6332,6 +6332,7 @@ var block = [
     "v2ray.com",
     "v2raycn.com",
     "v2raytech.com",
+    "valeursactuelles.com",
     "van001.com",
     "van698.com",
     "vanemu.cn",

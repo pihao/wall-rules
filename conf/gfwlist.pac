@@ -1595,6 +1595,7 @@ var block = [
     "bell.wiki",
     "bemywife.cc",
     "beric.me",
+    "berlinerbericht.de",
     "berlintwitterwall.com",
     "berlintwitterwall.com",
     "berm.co.nz",

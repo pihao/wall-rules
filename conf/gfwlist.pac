@@ -4,7 +4,7 @@
 // test js: https://jshint.com
 
 function FindProxyForURL(url, host) {
-    var proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:1081;DIRECT;";  // 'PROXY' or 'SOCKS5' or 'HTTPS'
+    var proxy = "SOCKS5 127.0.0.1:6153;HTTP 127.0.0.1:6152;DIRECT;";  // 'PROXY' or 'SOCKS5' or 'HTTPS' or 'HTTP'
     var direct = 'DIRECT;';
 
     // var domains = {

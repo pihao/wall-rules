@@ -5,6 +5,25 @@ import (
 	"testing"
 )
 
+func Test_map2arr(t *testing.T) {
+	tests := []struct {
+		name string
+		m    map[string]struct{}
+		want [][]byte
+	}{
+		{"", map[string]struct{}{"a": {}, "b": {}, "c": {}}, [][]byte{[]byte("a"), []byte("b"), []byte("c")}},
+		{"", map[string]struct{}{"c": {}, "a": {}, "b": {}}, [][]byte{[]byte("a"), []byte("b"), []byte("c")}},
+		{"", map[string]struct{}{"c": {}, "b": {}, "a": {}}, [][]byte{[]byte("a"), []byte("b"), []byte("c")}},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := map2arr(tt.m); !reflect.DeepEqual(got, tt.want) {
+				t.Errorf("map2arr() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
+
 func Test_parseDomain(t *testing.T) {
 	tests := []struct {
 		name       string

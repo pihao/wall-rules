@@ -10,6 +10,7 @@ import (
 	"net/http"
 	"os"
 	"regexp"
+	"sort"
 	"text/template"
 )
 
@@ -27,27 +28,20 @@ func main() {
 	gfw := gfwlist()
 	a, b := domainList(gfw)
 	saveSurge(a, b)
-	savePAC(a, b)
+	savePAC(b)
 }
 
-func savePAC(allow, block [][]byte) {
-	bufa := bytes.NewBuffer([]byte("\n"))
-	for _, b := range allow {
-		bufa.WriteString("    \"")
-		bufa.Write(b)
-		bufa.WriteString("\",\n")
-	}
-
+func savePAC(block [][]byte) {
 	bufb := bytes.NewBuffer([]byte("\n"))
 	for _, b := range block {
-		bufb.WriteString("    \"")
+		bufb.WriteString("        \"")
 		bufb.Write(b)
-		bufb.WriteString("\",\n")
+		bufb.WriteString("\": 1,\n")
 	}
 
 	rule := struct {
-		Allow, Block string
-	}{bufa.String(), bufb.String()}
+		Block string
+	}{bufb.String()}
 
 	t, err := template.ParseFiles(pacTemplate)
 	checkErr(err)
@@ -79,6 +73,9 @@ func saveSurge(allow, block [][]byte) {
 var currentLine = 0
 
 func domainList(gfw []byte) (allow, block [][]byte) {
+	allowm := make(map[string]struct{})
+	blockm := make(map[string]struct{})
+
 	scanner := bufio.NewScanner(bytes.NewBuffer(gfw))
 	for scanner.Scan() {
 		currentLine++
@@ -88,13 +85,31 @@ func domainList(gfw []byte) (allow, block [][]byte) {
 		}
 
 		if whitelist {
-			allow = append(allow, domain)
+			allowm[string(domain)] = struct{}{}
 		} else {
-			block = append(block, domain)
+			blockm[string(domain)] = struct{}{}
 		}
 	}
 	checkErr(scanner.Err())
+
+	allow = map2arr(allowm)
+	block = map2arr(blockm)
+
 	return allow, block
+}
+
+func map2arr(m map[string]struct{}) [][]byte {
+	var keys []string
+	for k := range m {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+
+	var arr [][]byte
+	for _, k := range keys {
+		arr = append(arr, []byte(k))
+	}
+	return arr
 }
 
 var (

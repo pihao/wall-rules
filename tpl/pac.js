@@ -1,42 +1,35 @@
 // PAC ref: https://developer.mozilla.org/en-US/docs/Web/HTTP/Proxy_servers_and_tunneling/Proxy_Auto-Configuration_PAC_file
+// template: https://github.com/clowwindy/gfwlist2pac
 // test PAC: https://app.thorsen.pm/proxyforurl
 // test js: https://jshint.com
 
-
 function FindProxyForURL(url, host) {
-    var PROXY = 'SOCKS5 127.0.0.1:1082';
-    var DIRECT = 'DIRECT';
-    var DEFAULT = PROXY;
+    var proxy = "SOCKS5 127.0.0.1:1080;SOCKS5 127.0.0.1:1081;DIRECT;";  // 'PROXY' or 'SOCKS5' or 'HTTPS'
+    var direct = 'DIRECT;';
 
-var block = [{{.Block}}];
+    // var domains = {
+    //     "google.com": 1,
+    //     "youtube.com": 1,
+    // };
+    var domains = { {{.Block}}    };
 
-var allow = [{{.Allow}}];
+    var hasOwnProperty = Object.hasOwnProperty;
 
-    var match = function (domain, list) {
-        for (var i = 0; i < list.length; i++) {
-            var e = list[i];
-            if (domain == e || domain.endsWith('.' + e)) {
-                return true;
+    var suffix;
+    var pos = host.lastIndexOf('.');
+    pos = host.lastIndexOf('.', pos - 1);
+    while(1) {
+        if (pos == -1) {
+            if (hasOwnProperty.call(domains, host)) {
+                return proxy;
+            } else {
+                return direct;
             }
         }
-        return false;
-    };
-
-    if (match(host, block)) {
-        return PROXY;
-    }
-    if (match(host, allow)) {
-        return DIRECT;
-    }
-    return DEFAULT;
-}
-
-// endsWith ref: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith#polyfill
-if (!String.prototype.endsWith) {
-    String.prototype.endsWith = function(search, this_len) {
-        if (this_len === undefined || this_len > this.length) {
-            this_len = this.length;
+        suffix = host.substring(pos + 1);
+        if (hasOwnProperty.call(domains, suffix)) {
+            return proxy;
         }
-        return this.substring(this_len - search.length, this_len) === search;
-    };
+        pos = host.lastIndexOf('.', pos - 1);
+    }
 }

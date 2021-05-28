@@ -4151,6 +4151,7 @@ var block = [
     "mefeedia.com",
     "jihadintel.meforum.org",
     "mega.co.nz",
+    "mega.io",
     "mega.nz",
     "megaproxy.com",
     "megarotic.com",

@@ -3397,6 +3397,7 @@
 .newyorktimes.com
 .nexon.com
 .next11.co.jp
+.nextdigital.com.hk
 .nextmag.com.tw
 .nextmedia.com
 .nexton-net.jp
@@ -4813,7 +4814,9 @@
 .tora.to
 .torcn.com
 .torguard.net
+.torlock.com
 .torproject.org
+.torrentkitty.tv
 .torrentprivacy.com
 .torrentproject.se
 .torrenty.org

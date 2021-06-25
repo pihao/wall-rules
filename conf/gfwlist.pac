@@ -1965,7 +1965,6 @@ function FindProxyForURL(url, host) {
         "giga-web.jp": 1,
         "gigporno.ru": 1,
         "girlbanker.com": 1,
-        "gist.github.com": 1,
         "git.io": 1,
         "github.blog": 1,
         "github.com": 1,

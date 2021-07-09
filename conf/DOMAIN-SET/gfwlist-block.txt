@@ -953,6 +953,7 @@
 .chrlawyers.hk
 .chrome.com
 .chromecast.com
+.chromeenterprise.google
 .chromeexperiments.com
 .chromercise.com
 .chromestatus.com
@@ -1898,6 +1899,7 @@
 .gazotube.com
 .gcc.org.hk
 .gclooney.com
+.gclubs.com
 .gcmasia.com
 .gcpnews.com
 .gcr.io
@@ -1933,6 +1935,7 @@
 .getoutline.org
 .getsocialscope.com
 .getsync.com
+.gettr.com
 .gettrials.com
 .gettyimages.com
 .getuploader.com
@@ -3955,6 +3958,7 @@
 .raremovie.cc
 .raremovie.net
 .rateyourmusic.com
+.rationalwiki.org
 .raw.githubusercontent.com
 .rawgit.com
 .rawgithub.com
@@ -4000,6 +4004,7 @@
 .religioustolerance.org
 .renminbao.com
 .renyurenquan.org
+.research.google
 .research.jmsc.hku.hk
 .resilio.com
 .resistchina.org
@@ -4892,6 +4897,7 @@
 .tuvpn.com
 .tuzaijidi.com
 .tv.com
+.tv.google
 .tv.jtbc.joins.com
 .tvants.com
 .tvboxnow.com
@@ -5065,6 +5071,7 @@
 .unodedos.com
 .unpo.org
 .unseen.is
+.unstable.icu
 .untraceable.us
 .uocn.org
 .upcoming.yahoo.com

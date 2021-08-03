@@ -1,2 +1,4 @@
 .cn.engadget.com
 .quicklisp.org
+.oa.com
+.woa.com

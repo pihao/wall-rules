@@ -127,6 +127,7 @@ function FindProxyForURL(url, host) {
         "888poker.com": 1,
         "89-64.org": 1,
         "89.64.charter.constitutionalism.solutions": 1,
+        "8964museum.com": 1,
         "8news.com.tw": 1,
         "8z1.net": 1,
         "9001700.com": 1,

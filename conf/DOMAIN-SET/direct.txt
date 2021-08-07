@@ -1,4 +1,5 @@
 .cn.engadget.com
 .quicklisp.org
+.tencent.com
 .oa.com
 .woa.com

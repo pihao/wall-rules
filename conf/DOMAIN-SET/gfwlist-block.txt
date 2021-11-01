@@ -43,6 +43,7 @@
 .2000fun.com
 .2008xianzhang.info
 .2017.hk
+.2021hkcharter.com
 .2047.name
 .21andy.com
 .21join.com
@@ -583,6 +584,7 @@
 .blinw.com
 .blip.tv
 .blockcn.com
+.blockedbyhk.com
 .blockless.com
 .blog.calibre-ebook.com
 .blog.cnyes.com
@@ -658,6 +660,7 @@
 .boobstagram.com
 .book.com.tw
 .book.zi5.me
+.bookdepository.com
 .bookepub.com
 .books.com.tw
 .booktopia.com.au
@@ -734,6 +737,7 @@
 .bwsj.hk
 .bx.in.th
 .bx.tl
+.bybit.com
 .bynet.co.il
 .bypasscensorship.org
 .c-est-simple.com
@@ -1052,7 +1056,9 @@
 .coinbene.com
 .coinegg.com
 .coinex.com
+.coingecko.com
 .coingi.com
+.coinmarketcap.com
 .coinrail.co.kr
 .cointiger.com
 .cointobe.com
@@ -1834,6 +1840,7 @@
 .ftpserver.biz
 .ftv.com.tw
 .ftvnews.com.tw
+.ftx.com
 .fucd.com
 .fuckcnnic.net
 .fuckgfw.org
@@ -2026,6 +2033,7 @@
 .goo.gl
 .gooday.xyz
 .gooddns.info
+.goodhope.school
 .goodreaders.com
 .goodreads.com
 .goodtv.com.tw
@@ -2380,6 +2388,7 @@
 .hopto.org
 .hornygamer.com
 .hornytrip.com
+.horrorporn.com
 .hotair.com
 .hotav.tv
 .hotels.cn
@@ -3461,6 +3470,7 @@
 .nordstromimage.com
 .nordstromrack.com
 .nordvpn.com
+.notepad-plus-plus.org
 .notify.dropboxapi.com
 .nottinghampost.com
 .novelasia.com
@@ -3972,6 +3982,7 @@
 .raremovie.net
 .rateyourmusic.com
 .rationalwiki.org
+.raw.githack.com
 .raw.githubusercontent.com
 .rawgit.com
 .rawgithub.com
@@ -4655,6 +4666,7 @@
 .thehousenews.com
 .thehun.net
 .theinitium.com
+.themoviedb.org
 .thenewslens.com
 .thepiratebay.org
 .theporndude.com
@@ -4670,6 +4682,7 @@
 .thetibetpost.com
 .thetinhat.com
 .thetrotskymovie.com
+.thetvdb.com
 .thevivekspot.com
 .thewgo.org
 .theync.com
@@ -4853,7 +4866,7 @@
 .tparents.org
 .tpi.org.tw
 .tracfone.com
-.traffichaus.com
+.tradingview.com
 .trans.wenweipo.com
 .translate.goog
 .translate.google
@@ -4904,6 +4917,7 @@
 .tumview.com
 .tunein.com
 .tunnelbear.com
+.tunnelblick.net
 .tunnelr.com
 .tunsafe.com
 .turansam.org
@@ -5302,6 +5316,7 @@
 .waigaobu.com
 .waikeung.org
 .wailaike.net
+.wainao.me
 .waiwaier.com
 .wallmama.com
 .wallornot.org
@@ -5643,6 +5658,7 @@
 .xyy69.com
 .xyy69.info
 .y2mate.com
+.yadi.sk
 .yahoo.com.hk
 .yakbutterblues.com
 .yam.com

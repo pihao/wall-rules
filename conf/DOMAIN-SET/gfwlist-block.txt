@@ -644,6 +644,7 @@
 .bloomberg.de
 .bloombergview.com
 .bloomfortune.com
+.blubrry.com
 .blueangellive.com
 .bmfinn.com
 .bnews.co
@@ -1464,7 +1465,6 @@
 .eltondisney.com
 .emaga.com
 .emanna.com
-.embr.in
 .emilylau.org.hk
 .empfil.com
 .emule-ed2k.com
@@ -1624,6 +1624,7 @@
 .fangong.org
 .fangongheike.com
 .fanhaodang.com
+.fanhaolou.com
 .fanqiang.network
 .fanqiang.tk
 .fanqiangdang.com
@@ -1995,7 +1996,7 @@
 .gluckman.com
 .glype.com
 .gmail.com
-.gmbd.cn
+.gmgard.com
 .gmhz.org
 .gmll.org
 .gmodules.com
@@ -2639,6 +2640,7 @@
 .istockphoto.com
 .isunaffairs.com
 .isuntv.com
+.isupportuyghurs.org
 .itaboo.info
 .itaiwan.gov.tw
 .italiatibet.org
@@ -2839,6 +2841,7 @@
 .ktzhk.com
 .kucoin.com
 .kui.name
+.kukuku.uk
 .kun.im
 .kurashsultan.com
 .kurtmunger.com
@@ -3896,6 +3899,7 @@
 .pt.im
 .pts.org.tw
 .ptt.cc
+.pttgame.com
 .pttvan.org
 .pubu.com.tw
 .puffinbrowser.com
@@ -4096,6 +4100,7 @@
 .rule34.xxx
 .runbtx.com
 .rushbee.com
+.rusvpn.com
 .ruten.com.tw
 .rutube.ru
 .ruyiseek.com
@@ -4362,6 +4367,7 @@
 .solarsystem.nasa.gov
 .solidaritetibet.org
 .solidfiles.com
+.solv.finance
 .somee.com
 .songjianjun.com
 .sonicbbs.cc
@@ -4447,7 +4453,6 @@
 .static-economist.com
 .static.comico.tw
 .static.shemalez.com
-.static.techspot.com
 .static01.nyt.com
 .staticflickr.com
 .statueofdemocracy.org
@@ -4620,6 +4625,7 @@
 .teamamericany.com
 .tech2.in.com
 .technews.tw
+.techspot.com
 .techviz.net
 .teck.in
 .teco-hk.org
@@ -4743,7 +4749,9 @@
 .tibetancommunity.org
 .tibetancommunityuk.net
 .tibetanculture.org
+.tibetanentrepreneurs.org
 .tibetanfeministcollective.org
+.tibetanhealth.org
 .tibetanjournal.com
 .tibetanlanguage.org
 .tibetanliberation.org
@@ -4796,6 +4804,7 @@
 .tibetwrites.org
 .ticket.com.tw
 .tigervpn.com
+.tiktok.com
 .tiltbrush.com
 .timdir.com
 .time.com
@@ -4883,6 +4892,7 @@
 .trickip.net
 .trickip.org
 .trimondi.de
+.tronscan.org
 .trouw.nl
 .trt.net.tr
 .trtc.com.tw
@@ -5062,6 +5072,7 @@
 .txxx.com
 .tycool.com
 .typepad.com
+.typora.io
 .u15.info
 .u9un.com
 .ub0.cc
@@ -5158,6 +5169,7 @@
 .uwants.net
 .uyghur-j.org
 .uyghur.co.uk
+.uyghuraa.org
 .uyghuramerican.org
 .uyghurbiz.org
 .uyghurcanadiansociety.org

@@ -508,6 +508,7 @@
 .behance.net
 .behindkink.com
 .beijing1989.com
+.beijing2022.art
 .beijingspring.com
 .beijingzx.org
 .belamionline.com
@@ -667,6 +668,7 @@
 .books.com.tw
 .booktopia.com.au
 .boomssr.com
+.borgenmagazine.com
 .bot.nu
 .botanwang.com
 .bowenpress.com
@@ -821,7 +823,6 @@
 .cdef.org
 .cdig.info
 .cdjp.org
-.cdn-apple.com
 .cdn-images.mailchimp.com
 .cdn.assets.lfpcontent.com
 .cdn.helixstudios.net
@@ -1199,13 +1200,12 @@
 .daliulian.org
 .danbooru.donmai.us
 .danke4china.net
-.danwei.org
 .daodu14.jigsy.com
 .daolan.net
-.daozhongxing.org
 .darktech.org
 .darktoy.net
 .darpa.mil
+.darrenliuwei.com
 .dastrassi.org
 .data-vocabulary.org
 .data.flurry.com
@@ -1264,7 +1264,6 @@
 .dharmakara.net
 .dhcp.biz
 .diaoyuislands.org
-.dictionary.goo.ne.jp
 .difangwenge.org
 .digiland.tw
 .digisfera.com
@@ -2036,6 +2035,7 @@
 .gongminliliang.com
 .gongwt.com
 .goo.gl
+.goo.ne.jp
 .gooday.xyz
 .gooddns.info
 .goodhope.school
@@ -2147,6 +2147,7 @@
 .grangorz.org
 .graphis.ne.jp
 .graphql.org
+.gravatar.com
 .greasespot.net
 .great-firewall.com
 .great-roc.org
@@ -2940,6 +2941,7 @@
 .linuxtoy.org
 .lionsroar.com
 .lipuman.com
+.liquiditytp.com
 .liquidvpn.com
 .listennotes.com
 .listentoyoutube.com
@@ -3037,6 +3039,7 @@
 .malaysiakini.com
 .mamingzhe.com
 .manchukuo.net
+.mandiant.com
 .mangafox.com
 .mangafox.me
 .maniash.com
@@ -3220,6 +3223,7 @@
 .monitorchina.org
 .monster.com
 .moodyz.com
+.moon.fm
 .moonbbs.com
 .moonbingo.com
 .moptt.tw
@@ -3328,6 +3332,7 @@
 .myz.info
 .naacoalition.org
 .naitik.net
+.nakedsecurity.sophos.com
 .nakido.com
 .nakuz.com
 .nalandabodhi.org
@@ -3417,6 +3422,7 @@
 .newstamago.com
 .newstapa.org
 .newstarnet.com
+.newstatesman.com
 .newsweek.com
 .newtaiwan.com.tw
 .newtalk.tw
@@ -3582,8 +3588,10 @@
 .old-cat.net
 .old.honeynet.org
 .old.nabble.com
+.olevod.com
 .olumpo.com
 .olympicwatch.org
+.omct.org
 .omgili.com
 .omni7.jp
 .omnitalk.com
@@ -3805,6 +3813,7 @@
 .po2b.com
 .pobieramy.top
 .podbean.com
+.podcast.co
 .podictionary.com
 .pokerstars.com
 .pokerstars.net
@@ -3814,6 +3823,7 @@
 .poloniex.com
 .polymer-project.org
 .polymerhk.com
+.poolin.com
 .popo.tw
 .popvote.hk
 .popxi.click
@@ -4035,6 +4045,7 @@
 .relaxbbs.com
 .relay.com.tw
 .releaseinternational.org
+.religionnews.com
 .religioustolerance.org
 .renminbao.com
 .renyurenquan.org
@@ -4120,6 +4131,7 @@
 .sadistic-v.com
 .sadpanda.us
 .safechat.com
+.safeguarddefenders.com
 .safervpn.com
 .safety.google
 .saintyculture.com
@@ -4560,6 +4572,7 @@
 .tahr.org.tw
 .taipei.gov.tw
 .taipeisociety.org
+.taipeitimes.com
 .taiwan-sex.com
 .taiwanbible.com
 .taiwancon.com
@@ -5159,7 +5172,6 @@
 .usocctn.com
 .ustibetcommittee.org
 .ustream.tv
-.usunitednews.com
 .usus.cc
 .utopianpal.com
 .uu-gg.com
@@ -5172,12 +5184,12 @@
 .uyghuraa.org
 .uyghuramerican.org
 .uyghurbiz.org
-.uyghurcanadiansociety.org
+.uyghurcanadian.ca
 .uyghurcongress.org
-.uyghurensemble.co.uk
 .uyghurpen.org
 .uyghurpress.com
 .uyghurstudies.org
+.uyghurtribunal.com
 .uygur.fc2web.com
 .uygur.org
 .uymaarip.com
@@ -5637,6 +5649,7 @@
 .xml-training-guide.com
 .xmovies.com
 .xn--4gq171p.com
+.xn--9pr62r24a.com
 .xn--czq75pvv1aj5c.org
 .xn--i2ru8q2qg.com
 .xn--ngstr-lra8j.com

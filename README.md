@@ -12,3 +12,5 @@ https://cdn.jsdelivr.net/gh/pihao/wall-rules@main/conf/shadowrocket-jsdelivr.con
 PAC:
 
 https://raw.githubusercontent.com/pihao/wall-rules/main/conf/gfwlist.pac
+
+https://cdn.jsdelivr.net/gh/pihao/wall-rules@main/conf/gfwlist.pac

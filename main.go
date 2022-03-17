@@ -17,18 +17,58 @@ import (
 const (
 	gfwlistURL = "https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt"
 
-	surgeAllowFile = "conf/DOMAIN-SET/gfwlist-allow.txt"
-	surgeBlockFile = "conf/DOMAIN-SET/gfwlist-block.txt"
+	surgeAllowFile = "conf/surge/gfwlist-allow.txt"
+	surgeBlockFile = "conf/surge/gfwlist-block.txt"
+
+	clashAllowFile = "conf/clash/gfwlist-allow.yaml"
+	clashBlockFile = "conf/clash/gfwlist-block.yaml"
 
 	pacTemplate = "tpl/pac.js"
 	pacFile     = "conf/gfwlist.pac"
 )
 
 func main() {
-	gfw := gfwlist()
-	a, b := domainList(gfw)
-	saveSurge(a, b)
-	savePAC(b)
+	gfw := getAndParseGFW()
+	allow, block := parseAllowAndBlockFromGFW(gfw)
+	saveSurge(allow, block, surgeAllowFile, surgeBlockFile)
+	saveClash(allow, block, clashAllowFile, clashBlockFile)
+	savePAC(block)
+}
+
+func saveClash(allow, block [][]byte, apath, bpath string) {
+	buf := bytes.NewBuffer([]byte("payload:\n"))
+	for _, b := range allow {
+		buf.WriteString("  - '.")
+		buf.Write(b)
+		buf.WriteString("'\n")
+	}
+	writeFile(apath, buf.Bytes())
+
+	buf = bytes.NewBuffer([]byte("payload:\n"))
+	for _, b := range block {
+		buf.WriteString("  - '.")
+		buf.Write(b)
+		buf.WriteString("'\n")
+	}
+	writeFile(bpath, buf.Bytes())
+}
+
+func saveSurge(allow, block [][]byte, apath, bpath string) {
+	buf := bytes.NewBuffer(nil)
+	for _, b := range allow {
+		buf.WriteString(".")
+		buf.Write(b)
+		buf.WriteString("\n")
+	}
+	writeFile(apath, buf.Bytes())
+
+	buf = bytes.NewBuffer(nil)
+	for _, b := range block {
+		buf.WriteString(".")
+		buf.Write(b)
+		buf.WriteString("\n")
+	}
+	writeFile(bpath, buf.Bytes())
 }
 
 func savePAC(block [][]byte) {
@@ -52,27 +92,9 @@ func savePAC(block [][]byte) {
 	writeFile(pacFile, buf.Bytes())
 }
 
-func saveSurge(allow, block [][]byte) {
-	buf := bytes.NewBuffer(nil)
-	for _, b := range allow {
-		buf.WriteString(".")
-		buf.Write(b)
-		buf.WriteString("\n")
-	}
-	writeFile(surgeAllowFile, buf.Bytes())
-
-	buf = bytes.NewBuffer(nil)
-	for _, b := range block {
-		buf.WriteString(".")
-		buf.Write(b)
-		buf.WriteString("\n")
-	}
-	writeFile(surgeBlockFile, buf.Bytes())
-}
-
 var currentLine = 0
 
-func domainList(gfw []byte) (allow, block [][]byte) {
+func parseAllowAndBlockFromGFW(gfw []byte) (allow, block [][]byte) {
 	allowm := make(map[string]struct{})
 	blockm := make(map[string]struct{})
 
@@ -176,7 +198,7 @@ func parseDomain(b []byte) (domain []byte, allow bool) {
 	return nil, false
 }
 
-func gfwlist() []byte {
+func getAndParseGFW() []byte {
 	res, err := http.Get(gfwlistURL)
 	checkErr(err)
 

@@ -3649,6 +3649,7 @@ function FindProxyForURL(url, host) {
         "openervpn.in": 1,
         "openid.net": 1,
         "openleaks.org": 1,
+        "opensea.io": 1,
         "opensource.google": 1,
         "opentech.fund": 1,
         "openvpn.net": 1,

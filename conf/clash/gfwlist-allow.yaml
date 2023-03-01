@@ -65,6 +65,7 @@ payload:
   - '.ntsec.gov.tw'
   - '.ntuh.gov.tw'
   - '.nvri.gov.tw'
+  - '.ocsp.pki.goog'
   - '.openwrt.org.cn'
   - '.penghu-nsa.gov.tw'
   - '.post.gov.tw'

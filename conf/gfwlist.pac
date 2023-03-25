@@ -199,6 +199,7 @@ function FindProxyForURL(url, host) {
         "advertisercommunity.com": 1,
         "ae.hao123.com": 1,
         "ae.org": 1,
+        "aei.org": 1,
         "aenhancers.com": 1,
         "aex.com": 1,
         "af.mil": 1,

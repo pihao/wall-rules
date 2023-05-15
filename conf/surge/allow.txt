@@ -3,3 +3,4 @@
 .tencent.com
 .oa.com
 .woa.com
+.vzzoo.com

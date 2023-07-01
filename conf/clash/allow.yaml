@@ -1,7 +1,8 @@
 payload:
-  - '.cn.engadget.com'
-  - '.quicklisp.org'
-  - '.tencent.com'
+  - '.vzzoo.com'
   - '.oa.com'
   - '.woa.com'
-  - '.vzzoo.com'
+  - '.tencent.com'
+  - '.quicklisp.org'
+  - '.cn.engadget.com'
+  - '.steamcontent.com'

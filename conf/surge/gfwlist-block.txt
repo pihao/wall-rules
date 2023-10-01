@@ -103,7 +103,6 @@
 .6parkbbs.com
 .6parker.com
 .6parknews.com
-.7-zip.org
 .7capture.com
 .7cow.com
 .8-d.com
@@ -1005,6 +1004,7 @@
 .civilhrfront.org
 .civiliangunner.com
 .civilmedia.tw
+.civitai.com
 .ck101.com
 .cl.d0z.net
 .clarionproject.org
@@ -2026,6 +2026,7 @@
 .goagent.codeplex.com
 .goagentplus.com
 .gobet.cc
+.godaddy.com
 .godfootsteps.org
 .godns.work
 .godoc.org
@@ -2949,6 +2950,7 @@
 .lflinkup.org
 .lhakar.org
 .lhasocialwork.org
+.li.taipei
 .liangyou.net
 .liangzhichuanmei.com
 .lianyue.net
@@ -3262,6 +3264,7 @@
 .mondex.org
 .money-link.com.tw
 .moneyhome.biz
+.monica.im
 .monitorchina.org
 .monocloud.me
 .monster.com
@@ -3731,7 +3734,6 @@
 .page.bid.yahoo.com
 .page.link
 .page2rss.com
-.pages.dev
 .pagodabox.com
 .palacemoon.com
 .paldengyal.com
@@ -4966,7 +4968,6 @@
 .tradingview.com
 .trans.wenweipo.com
 .translate.goog
-.translate.google
 .transparency.org
 .treemall.com.tw
 .trendsmap.com
@@ -5364,7 +5365,6 @@
 .voxer.com
 .voy.com
 .vpn.ac
-.vpn.cjb.net
 .vpn.cmu.edu
 .vpn.sv.cmu.edu
 .vpn4all.com

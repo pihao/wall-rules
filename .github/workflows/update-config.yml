@@ -17,14 +17,20 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: Set up Golang env
-      id: go
-      uses: actions/setup-go@v1
+    - name: Set up Go
+      uses: actions/setup-go@v4 # https://github.com/actions/setup-go
       with:
-        go-version: 1.18
+        go-version: '1.21.3'
+      id: go
 
-    - name: Check out code
-      uses: actions/checkout@v2
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v3 # https://github.com/actions/checkout
+
+    - name: Get Go dependencies
+      run: |
+        go version
+        go install honnef.co/go/tools/cmd/staticcheck@latest
+        go mod tidy
 
     - name: Build
       run: go build -v .

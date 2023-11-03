@@ -1,3 +1,3 @@
 module github.com/pihao/wall-rules
 
-go 1.18
+go 1.21

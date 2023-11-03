@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"encoding/base64"
 	"fmt"
-	"io/ioutil"
+	"io"
 	"log"
 	"net/http"
 	"os"
@@ -181,7 +181,7 @@ func getAndParseGFW() []byte {
 	checkErr(err)
 
 	defer res.Body.Close()
-	body, err := ioutil.ReadAll(res.Body)
+	body, err := io.ReadAll(res.Body)
 	checkErr(err)
 
 	decoded := make([]byte, len(body))

@@ -20,9 +20,6 @@ const (
 	surgeAllowFile = "conf/surge/gfwlist-allow.txt"
 	surgeBlockFile = "conf/surge/gfwlist-block.txt"
 
-	clashAllowFile = "conf/clash/gfwlist-allow.yaml"
-	clashBlockFile = "conf/clash/gfwlist-block.yaml"
-
 	pacTemplate = "tpl/pac.js"
 	pacFile     = "conf/gfwlist.pac"
 )
@@ -31,26 +28,7 @@ func main() {
 	gfw := getAndParseGFW()
 	allow, block := parseAllowAndBlockFromGFW(gfw)
 	saveSurge(allow, block, surgeAllowFile, surgeBlockFile)
-	saveClash(allow, block, clashAllowFile, clashBlockFile)
 	savePAC(block)
-}
-
-func saveClash(allow, block [][]byte, apath, bpath string) {
-	buf := bytes.NewBuffer([]byte("payload:\n"))
-	for _, b := range allow {
-		buf.WriteString("  - '.")
-		buf.Write(b)
-		buf.WriteString("'\n")
-	}
-	writeFile(apath, buf.Bytes())
-
-	buf = bytes.NewBuffer([]byte("payload:\n"))
-	for _, b := range block {
-		buf.WriteString("  - '.")
-		buf.Write(b)
-		buf.WriteString("'\n")
-	}
-	writeFile(bpath, buf.Bytes())
 }
 
 func saveSurge(allow, block [][]byte, apath, bpath string) {

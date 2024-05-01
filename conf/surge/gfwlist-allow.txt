@@ -56,7 +56,6 @@
 .nmp.gov.tw
 .nmvttc.gov.tw
 .northguan-nsa.gov.tw
-.npm.gov.tw
 .nrch.culture.tw
 .nstm.gov.tw
 .ntdmh.gov.tw

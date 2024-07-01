@@ -106,7 +106,6 @@
 .www.exblog.jp
 .www.google.cn
 .www.kodingen.com
-.www.lightnovel.cn
 .www.typepad.com
 .xx.wwwhost.biz
 .yahoo.cn

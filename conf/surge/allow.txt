@@ -1,7 +1,6 @@
-.vzzoo.com
-.oa.com
-.woa.com
-.tencent.com
-.quicklisp.org
 .cn.engadget.com
+.quicklisp.org
 .steamcontent.com
+.tencent.com
+.vzzoo.com
+.yzzy.tv

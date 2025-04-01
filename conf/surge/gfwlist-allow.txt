@@ -10,10 +10,12 @@
 .chinaso.com
 .chinaz.com
 .chukuang.gov.tw
+.ci.android.com
 .clientservices.googleapis.com
-.cn.gravatar.com
 .cn.noxinfluencer.com
+.connectivitycheck.gstatic.com
 .cromotc.nat.gov.tw
+.csi.gstatic.com
 .cwb.gov.tw
 .cycab.gov.tw
 .dbnsa.gov.tw
@@ -23,6 +25,9 @@
 .eastcoast-nsa.gov.tw
 .erv-nsa.gov.tw
 .fonts.googleapis.com
+.fonts.gstatic.com
+.gettyimages.cn
+.gettyimages.com
 .gov.cn
 .grb.gov.tw
 .gysd.nyc.gov.tw
@@ -66,11 +71,11 @@
 .ocsp.pki.goog
 .openwrt.org.cn
 .penghu-nsa.gov.tw
+.pinterest.cn
 .post.gov.tw
 .qq.com
 .redirector.gvt1.com
 .safebrowsing.googleapis.com
-.simplecd.me
 .sina.cn
 .sina.com.cn
 .siraya-nsa.gov.tw
@@ -78,6 +83,7 @@
 .so.com
 .sogou.com
 .soso.com
+.ssl.gstatic.com
 .static.soup.io
 .static.typepad.com
 .stdtime.gov.tw
@@ -103,6 +109,7 @@
 .wanfang.gov.tw
 .weibo.com
 .www.ampproject.org
+.www.ettoday.net
 .www.exblog.jp
 .www.google.cn
 .www.kodingen.com

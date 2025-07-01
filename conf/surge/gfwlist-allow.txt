@@ -37,6 +37,7 @@
 .hiwifi.com
 .hsinchu-cc.gov.tw
 .http2.golang.org
+.i.pki.goog
 .ime.baidu.jp
 .iner.gov.tw
 .ip.cn
@@ -52,7 +53,6 @@
 .matsucc.gov.tw
 .moe.gov.tw
 .music.jwmusic.org
-.myvlog.im.tv
 .nankan.gov.tw
 .ncree.gov.tw
 .necoast-nsa.gov.tw

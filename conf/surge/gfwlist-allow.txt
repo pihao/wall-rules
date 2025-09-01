@@ -87,7 +87,6 @@
 .static.soup.io
 .static.typepad.com
 .stdtime.gov.tw
-.storage.googleapis.com
 .store.sprite.org
 .sunmoonlake.gov.tw
 .taitung-house.gov.tw

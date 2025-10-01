@@ -42,6 +42,7 @@
 .iner.gov.tw
 .ip.cn
 .ip6.static.sl-reverse.com
+.ipify.org
 .jike.com
 .jpush.cn
 .klsio.gov.tw

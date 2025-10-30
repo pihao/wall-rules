@@ -1,6 +1,7 @@
 .vzzoo.com
 
 .cn.engadget.com
+.phind.com
 .quicklisp.org
 .steamcontent.com
 .tencent.com

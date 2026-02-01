@@ -72,7 +72,6 @@
 .ocsp.pki.goog
 .openwrt.org.cn
 .penghu-nsa.gov.tw
-.pinterest.cn
 .post.gov.tw
 .qq.com
 .redirector.gvt1.com

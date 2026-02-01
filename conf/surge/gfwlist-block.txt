@@ -192,6 +192,7 @@
 .agro.hk
 .ai.binwang.me
 .ai.dev
+.ai.studio
 .aiosearch.com
 .aiph.net
 .airasia.com
@@ -204,6 +205,7 @@
 .aiweiwei.com
 .aiweiweiblog.com
 .akademiye.org
+.akamai.tvb.com
 .akamaihd.net
 .akiba-online.com
 .akiba-web.com
@@ -277,7 +279,10 @@
 .angularjs.org
 .animecrazy.net
 .aniscartujo.com
+.annas-archive.in
+.annas-archive.li
 .annas-archive.org
+.annas-archive.pm
 .annas-archive.se
 .annatam.com
 .anobii.com
@@ -422,6 +427,7 @@
 .babylonbee.com
 .babynet.com.hk
 .backchina.com
+.backend-v2.crixet.com
 .backpackers.com.tw
 .backtotiananmen.com
 .bad.news
@@ -459,6 +465,7 @@
 .bbc.co.uk
 .bbc.com
 .bbc.in
+.bbc.pdn.tritondigital.com
 .bbcchinese.com
 .bbchat.tv
 .bbci.co.uk
@@ -960,6 +967,7 @@
 .chromecast.com
 .chromeexperiments.com
 .chromestatus.com
+.chromium.org
 .chuang-yen.org
 .chubold.com
 .chubun.com
@@ -1202,10 +1210,12 @@
 .dawangidc.com
 .daxa.cn
 .daylife.com
+.dazn.com
 .db.tt
 .dbgjd.com
 .dcard.tw
 .dcmilitary.com
+.dcs-spotify.megaphone.fm
 .ddc.com.tw
 .ddex.io
 .ddns.info
@@ -1721,7 +1731,6 @@
 .forum.mymaji.com
 .forum.palmislife.com
 .forum.slime.com.tw
-.forum.tvb.com
 .forum.xinbao.de
 .forum4hk.com
 .fountmedia.io
@@ -1777,6 +1786,7 @@
 .freess.org
 .freessh.us
 .freetcp.com
+.freeterabox.com
 .freetibet.net
 .freetibet.org
 .freetibetanheroes.org
@@ -2195,6 +2205,7 @@
 .helloandroid.com
 .helloqueer.com
 .hellouk.org
+.help.byspotify.com
 .helpeachpeople.com
 .helpster.de
 .helpzhuling.org
@@ -2572,7 +2583,6 @@
 .ismprofessional.net
 .isohunt.com
 .israbox.com
-.issues.chromium.org
 .issuu.com
 .istars.co.nz
 .istockphoto.com
@@ -3264,6 +3274,7 @@
 .myspacecdn.com
 .mytalkbox.com
 .mytizi.com
+.mytvsuper.com
 .mywife.cc
 .mywww.biz
 .myz.info
@@ -3556,6 +3567,8 @@
 .onthehunt.com
 .ontrac.com
 .oojj.de
+.ooni.io
+.ooni.org
 .open.com.hk
 .open.firstory.me
 .openai.com
@@ -3667,6 +3680,7 @@
 .pdetails.com
 .pdproxy.com
 .pds.nasa.gov
+.pdst.fm
 .peace.ca
 .peacefire.org
 .peeasian.com
@@ -3716,6 +3730,23 @@
 .pinimg.com
 .pinkrod.com
 .pinoy-n.com
+.pinterest.at
+.pinterest.ca
+.pinterest.cl
+.pinterest.co.uk
+.pinterest.com
+.pinterest.com.au
+.pinterest.com.mx
+.pinterest.de
+.pinterest.es
+.pinterest.fr
+.pinterest.ie
+.pinterest.it
+.pinterest.jp
+.pinterest.nz
+.pinterest.ph
+.pinterest.pt
+.pinterest.se
 .pioneer-worker.forums-free.com
 .pipii.tv
 .piraattilahti.org
@@ -4225,6 +4256,7 @@
 .silkbook.com
 .silvergatebank.com
 .simbolostwitter.com
+.simianx.ai
 .simplecd.me
 .simplecd.org
 .simpleproductivityblog.com
@@ -4908,6 +4940,7 @@
 .tv.com
 .tv.jtbc.joins.com
 .tvants.com
+.tvbanywhere.com
 .tvboxnow.com
 .tvider.com
 .tvmost.com.hk
@@ -5059,6 +5092,7 @@
 .unstable.icu
 .unwire.hk
 .uocn.org
+.up.audio
 .upbit.com
 .updates.tdesktop.com
 .upghsbc.com
@@ -5327,6 +5361,7 @@
 .wefong.com
 .wego.here.com
 .weiboleak.com
+.weights.com
 .weihuo.org
 .weijingsheng.org
 .weiming.info
@@ -5522,6 +5557,7 @@
 .xbookcn.com
 .xbtce.com
 .xcafe.in
+.xcancel.com
 .xcity.jp
 .xcritic.com
 .xerotica.com
@@ -5624,6 +5660,7 @@
 .yesasia.com.hk
 .yespornplease.com
 .yeyeclub.com
+.yfsp.tv
 .ygto.com
 .yhcw.net
 .yibada.com
@@ -5647,6 +5684,7 @@
 .youdontcare.com
 .youjizz.com
 .youmaker.com
+.youmind.com
 .youngpornvideos.com
 .youngspiration.hk
 .youpai.org

@@ -75,6 +75,7 @@
 .a-normal-day.com
 .a248.e.akamai.net
 .aamacau.com
+.aave.com
 .abc.net.au
 .abc.xyz
 .abebooks.co.uk
@@ -248,12 +249,14 @@
 .archives.gov
 .arctosia.com
 .areca-backup.org
+.arena.ai
 .arena.taipei
 .arethusa.su
 .arlingtoncemetery.mil
 .arte.tv
 .artstation.com
 .arvanstorage.ir
+.arweave.org
 .asacp.org
 .asiaharvest.org
 .asianage.com
@@ -680,6 +683,7 @@
 .chromestatus.com
 .chromium.org
 .ci-en.jp
+.cia.gov
 .cici.com
 .ciciai.com
 .cirosantilli.com
@@ -696,6 +700,7 @@
 .ck101.com
 .classicalguitarblog.net
 .claude.ai
+.claude.com
 .cldr.unicode.org
 .clearsurance.com
 .clementine-player.org
@@ -911,6 +916,7 @@
 .dmcdn.net
 .dmhy.org
 .dmm.co.jp
+.dns.cloudflare.com
 .dns2go.com
 .dnscrypt.org
 .dnssec.net
@@ -939,6 +945,7 @@
 .dougscripts.com
 .doujincafe.com
 .download.aircrack-ng.org
+.download.dappcdn.com
 .dpool.top
 .dpp.org.tw
 .dpr.info
@@ -990,6 +997,7 @@
 .ebtcbank.com
 .ecfa.org.tw
 .ecimg.tw
+.economist.com
 .edgecastcdn.net
 .edubridge.com
 .edx-cdn.org
@@ -1495,6 +1503,7 @@
 .google.cv
 .google.cz
 .google.de
+.google.dev
 .google.dk
 .google.dm
 .google.dz
@@ -1909,6 +1918,7 @@
 .interseclab.org
 .inthenameofconfuciusmovie.com
 .investigating.wordpress.com
+.investing.com
 .invidio.us
 .inxian.com
 .ipdefenseforum.com
@@ -2198,6 +2208,7 @@
 .mangafox.me
 .mangmang.run
 .manta.com
+.manus.im
 .manyvoices.news
 .marc.info
 .martau.com
@@ -2532,8 +2543,10 @@
 .ohmyrss.com
 .ok.ru
 .okayfreedom.com
+.okcoin.com
 .okex.com
 .okk.tw
+.oklink.com
 .okpool.me
 .okx.com
 .old.honeynet.org
@@ -3024,6 +3037,7 @@
 .shenzhoufilm.com
 .shenzhouzhengdao.org
 .shiksha.com
+.shitjournal.org
 .shixiao.org
 .shizhao.org
 .shodanhq.com
@@ -3860,6 +3874,7 @@
 .wiredpen.com
 .wireguard.com
 .wisevid.com
+.wispbyte.com
 .withgoogle.com
 .withyoutube.com
 .witopia.net
@@ -3913,7 +3928,6 @@
 .www.hoyolab.com
 .www.hustlercash.com
 .www.idlcoyote.com
-.www.imdb.com
 .www.kindleren.com
 .www.lorenzetti.com.br
 .www.m-sport.co.uk
@@ -3947,6 +3961,7 @@
 .xcafe.in
 .xcancel.com
 .xcity.jp
+.xdaforums.com
 .xerotica.com
 .xfinity.com
 .xfxssr.me
@@ -3967,11 +3982,13 @@
 .xm.com
 .xml-training-guide.com
 .xn--11xs86f.icu
+.xn--1jqvh729avzfcy2d8ummib.com
 .xn--4gq171p.com
 .xn--9iqy04a7fi01l.com
 .xn--9pr62r24a.com
 .xn--czq75pvv1aj5c.org
 .xn--i2ru8q2qg.com
+.xn--kcrv3utim32hx9f6qe.com
 .xn--ngstr-lra8j.com
 .xn--noss43i.com
 .xn--oiq.cc
@@ -4072,7 +4089,6 @@
 .z-library.sk
 .zalmos.com
 .zamimg.com
-.zaobao.com.sg
 .zaochenbao.com
 .zattoo.com
 .zb.com

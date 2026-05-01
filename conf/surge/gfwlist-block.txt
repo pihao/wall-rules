@@ -184,11 +184,9 @@
 .angola.org
 .angularjs.org
 .aniscartujo.com
-.annas-archive.in
-.annas-archive.li
-.annas-archive.org
-.annas-archive.pm
-.annas-archive.se
+.annas-archive.gd
+.annas-archive.gl
+.annas-archive.pk
 .anobii.com
 .anonfiles.com
 .anonymouse.org
@@ -225,6 +223,7 @@
 .apkpure.net
 .app.box.com
 .app.cloudcone.com
+.app.element.io
 .app.smartmailcloud.com
 .appadvice.com
 .appbrain.com
@@ -236,6 +235,7 @@
 .appspot.com
 .appsto.re
 .aptoide.com
+.archive-it.org
 .archive.fo
 .archive.is
 .archive.li
@@ -264,6 +264,7 @@
 .asianfanfics.com
 .asiansexdiary.com
 .asiaone.com
+.asiasociety.org
 .ask.com
 .askstudent.com
 .askynz.net
@@ -291,6 +292,7 @@
 .avg.com
 .avgle.com
 .avidemux.org
+.avistaz.to
 .avmo.pw
 .avmoo.pw
 .avoision.com
@@ -355,6 +357,7 @@
 .beijing2022.art
 .beijingspring.com
 .bell.wiki
+.bellingcat.com
 .berlinerbericht.de
 .berlintwitterwall.com
 .bestvpn.com
@@ -681,7 +684,6 @@
 .chromecast.com
 .chromeexperiments.com
 .chromestatus.com
-.chromium.org
 .ci-en.jp
 .cia.gov
 .cici.com
@@ -782,6 +784,7 @@
 .cpu-monkey.com
 .cq99.us
 .crackle.com
+.crashlytics.com
 .crazypool.org
 .crazyshit.com
 .crbug.com
@@ -917,6 +920,7 @@
 .dmhy.org
 .dmm.co.jp
 .dns.cloudflare.com
+.dns.sb
 .dns2go.com
 .dnscrypt.org
 .dnssec.net
@@ -927,6 +931,7 @@
 .dockerstatus.com
 .docs.new
 .documentingreality.com
+.doh.sb
 .dolc.de
 .dolf.org.hk
 .dongtaiwang.com
@@ -934,6 +939,7 @@
 .doom9.org
 .doosho.com
 .doourbest.org
+.dot.sb
 .dotplane.com
 .dotsub.com
 .dotvpn.com
@@ -944,7 +950,6 @@
 .douchi.space
 .dougscripts.com
 .doujincafe.com
-.download.aircrack-ng.org
 .download.dappcdn.com
 .dpool.top
 .dpp.org.tw
@@ -1728,8 +1733,6 @@
 .hk.jiepang.com
 .hk01.com
 .hka8964.wordpress.com
-.hkacg.com
-.hkacg.net
 .hkanews.wordpress.com
 .hkbookcity.com
 .hkchronicles.com
@@ -1949,6 +1952,7 @@
 .ismaelan.com
 .ismprofessional.net
 .israbox.com
+.issues.chromium.org
 .issuu.com
 .isupportuyghurs.org
 .italiatibet.org
@@ -2090,6 +2094,7 @@
 .lamayeshe.com
 .lamnia.co.uk
 .landofhope.tv
+.lantern.io
 .laogai.org
 .laogairesearch.org
 .laqingdan.net
@@ -2244,7 +2249,6 @@
 .mediawiki.org
 .medium.com
 .meee.com.tw
-.meetup.com
 .mega.co.nz
 .mega.io
 .mega.nz
@@ -2312,6 +2316,7 @@
 .mirrormedia.mg
 .missav.com
 .missav.ws
+.mistral.ai
 .mitbbs.com
 .miuipolska.pl
 .mixero.com
@@ -2374,7 +2379,6 @@
 .muzi.net
 .muzu.tv
 .mvg.jp
-.mx981.com
 .my-private-network.co.uk
 .my.pcloud.com
 .myaudiocast.com
@@ -2580,6 +2584,7 @@
 .ooni.org
 .open.firstory.me
 .openai.com
+.openart.ai
 .opencritic.com
 .opendemocracy.net
 .openid.net
@@ -2597,6 +2602,7 @@
 .orientaldaily.com.my
 .orn.jp
 .osfoora.com
+.osmand.net
 .otcbtc.com
 .otto.de
 .ourdearamy.com
@@ -2817,7 +2823,6 @@
 .putty.org
 .pximg.net
 .python.com.tw
-.pytorch.org
 .qbittorrent.org
 .qgirl.com.tw
 .qi-gong.me
@@ -2871,6 +2876,7 @@
 .raw.githack.com
 .rawgit.com
 .rawgithub.com
+.rawstory.com
 .rcam.target.com
 .rcinet.ca
 .rd.com
@@ -2882,6 +2888,7 @@
 .realcourage.org
 .realitykings.com
 .reason.com
+.recordedfuture.com
 .recoveryversion.com.tw
 .red-lang.org
 .redbubble.com
@@ -2917,6 +2924,7 @@
 .rixcloud.us
 .rlwlw.com
 .rmbl.ws
+.roblox.com
 .robustnessiskey.com
 .rocket-inc.net
 .rocket.chat
@@ -2950,13 +2958,6 @@
 .s-cute.com
 .s.yimg.com
 .s3-ap-northeast-1.amazonaws.com
-.s3-ap-northeast-2.amazonaws.com
-.s3-ap-southeast-1.amazonaws.com
-.s3-ap-southeast-2.amazonaws.com
-.s3-eu-central-1.amazonaws.com
-.s3.ap-northeast-2.amazonaws.com
-.s3.eu-central-1.amazonaws.com
-.s3.us-east-1.amazonaws.com
 .sacks.com
 .sacom.hk
 .sadistic-v.com
@@ -2978,6 +2979,7 @@
 .savetibetstore.org
 .saveuighur.org
 .sbme.me
+.sbti.unun.dev
 .scache.vzw.com
 .scache1.vzw.com
 .scache2.vzw.com
@@ -3134,7 +3136,6 @@
 .southnews.com.tw
 .southpark.cc.com
 .sowers.org.hk
-.soylentnews.org
 .spaces.hightail.com
 .spacex.com
 .spankbang.com
@@ -3281,8 +3282,8 @@
 .tbsn.org
 .tbssqh.org
 .teachparentstech.org
+.techbang.com
 .technews.tw
-.techspot.com
 .techviz.net
 .teck.in
 .teco-hk.org
@@ -3296,7 +3297,6 @@
 .telegram.org
 .telegram.space
 .telegramdownload.com
-.telegraph.co.uk
 .telesco.pe
 .tellapart.com
 .temu.com
@@ -3348,6 +3348,7 @@
 .thewgo.org
 .thewirechina.com
 .theync.com
+.thinkchina.sg
 .thinkgeek.com
 .thinkingtaiwan.com
 .thinkwithgoogle.com
@@ -3625,6 +3626,7 @@
 .upmedia.mg
 .upornia.com
 .uproxy.org
+.upsangel.com
 .uptodown.com
 .uraban.me
 .urbandictionary.com
@@ -3762,7 +3764,6 @@
 .vrporn.com
 .vrsmash.com
 .vtunnel.com
-.vuku.cc
 .vultryhw.com
 .w-pool.com
 .w3s.link
@@ -3977,7 +3978,6 @@
 .xing.com
 .xinjiangpolicefiles.org
 .xinmiao.com.hk
-.xjp.cc
 .xjtravelguide.com
 .xm.com
 .xml-training-guide.com

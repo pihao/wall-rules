@@ -10,6 +10,7 @@
 .crl.pki.goog
 .csi.gstatic.com
 .dl.google.com
+.firebase-settings.crashlytics.com
 .fonts.googleapis.com
 .fonts.gstatic.com
 .g0.gstatic.com
@@ -17,7 +18,6 @@
 .g2.gstatic.com
 .i.pki.goog
 .imasdk.googleapis.com
-.ipify.org
 .o.pki.goog
 .ocsp.pki.goog
 .redirector.gvt1.com

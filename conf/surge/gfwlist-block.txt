@@ -25,6 +25,7 @@
 .2047.one
 .2049bbs.xyz
 .233abc.com
+.24hbook.com
 .24hrs.ca
 .32red.com
 .36rain.com
@@ -88,6 +89,7 @@
 .acast.com
 .accountkit.com
 .acevpn.com
+.acg.mn
 .acg.rip
 .acg18.me
 .acgbox.org
@@ -257,6 +259,7 @@
 .artstation.com
 .arvanstorage.ir
 .arweave.org
+.as.mr
 .asacp.org
 .asiaharvest.org
 .asianage.com
@@ -321,6 +324,7 @@
 .bangdream.space
 .bangkokpost.com
 .bangumi.moe
+.bangumi.tv
 .bangyoulater.com
 .bankmobilevibe.com
 .bannedbook.org
@@ -376,6 +380,7 @@
 .betvictor.com
 .bfnn.org
 .bfsh.hk
+.bgm.tv
 .bgme.me
 .bgvpn.com
 .biblesforamerica.org
@@ -413,6 +418,7 @@
 .blacked.com
 .blackmagicdesign.com
 .blackvpn.com
+.bleepingcomputer.com
 .blinkx.com
 .blip.tv
 .blockcast.it
@@ -464,6 +470,7 @@
 .books.com.tw
 .booktopia.com.au
 .bookwalker.com.tw
+.boomplay.com
 .bootstrapcdn.com
 .borgenmagazine.com
 .botanwang.com
@@ -631,6 +638,7 @@
 .chenshan20042005.wordpress.com
 .cherrysave.com
 .chhongbi.org
+.chii.in
 .china-mmm.net
 .china-review.com.ua
 .china-week.com
@@ -675,6 +683,7 @@
 .chingcheong.com
 .chinman.net
 .chobit.cc
+.chonglangtv.org
 .chrdnet.com
 .christianfreedom.org
 .christianstudy.com
@@ -810,6 +819,7 @@
 .ct.org.tw
 .ctinets.com
 .ctinews.com
+.ctinsider.com
 .ctitv.com.tw
 .ctowc.org
 .cts.com.tw
@@ -852,6 +862,7 @@
 .darrenliuwei.com
 .dashlane.com
 .data-vocabulary.org
+.data18.com
 .daum.net
 .david-kilgour.com
 .dawangidc.com
@@ -950,6 +961,7 @@
 .douchi.space
 .dougscripts.com
 .doujincafe.com
+.dowjones.io
 .download.dappcdn.com
 .dpool.top
 .dpp.org.tw
@@ -963,6 +975,7 @@
 .dropboxusercontent.com
 .dscn.info
 .dstk.dk
+.dt18.com
 .dtiblog.com
 .dtic.mil
 .dubox.com
@@ -1004,6 +1017,7 @@
 .ecimg.tw
 .economist.com
 .edgecastcdn.net
+.edigest.hk
 .edubridge.com
 .edx-cdn.org
 .eesti.ee
@@ -1082,6 +1096,7 @@
 .f-droid.org
 .f2pool.com
 .f8.com
+.f95zone.to
 .facebook.com
 .facebook.de
 .facebook.design
@@ -1269,6 +1284,7 @@
 .fxnetworks.com
 .g-area.org
 .g-queen.com
+.g.ai
 .g.co
 .g0v.social
 .g6hentai.com
@@ -1300,6 +1316,7 @@
 .geek-art.net
 .gekikame.com
 .gelbooru.com
+.gencraft.com
 .generated.photos
 .genius.com
 .geph.io
@@ -1712,6 +1729,7 @@
 .hicairo.com
 .hiccears.com
 .hidden-advent.org
+.hiddify.com
 .hide.me
 .hideipvpn.com
 .hideman.net
@@ -1727,6 +1745,7 @@
 .hinet.net
 .hitbtc.com
 .hitomi.la
+.hive.blog
 .hiveon.net
 .hk-pub.com
 .hk.gradconnection.com
@@ -1901,6 +1920,7 @@
 .indiemerch.com
 .inews-api.tvb.com
 .info-graf.fr
+.infosec.exchange
 .infura.io
 .inherit.live
 .initiativesforchina.org
@@ -2039,6 +2059,7 @@
 .kantie.org
 .kaotic.com
 .karayou.com
+.kathmandupost.com
 .kawaiikawaii.jp
 .kawase.com
 .kb.monitorware.com
@@ -2113,7 +2134,9 @@
 .legra.ph
 .leisurepro.com
 .lematin.ch
+.lemonde.fr
 .lenwhite.com
+.leonardo.ai
 .lesoir.be
 .letscorp.net
 .lexica.art
@@ -2125,6 +2148,7 @@
 .liberal.org.hk
 .libertysculpturepark.com
 .libertytimes.com.tw
+.libgen.is
 .library-access.sk
 .library.usc.cuhk.edu.hk
 .libredd.it
@@ -2220,6 +2244,7 @@
 .martsangkagyuofficial.org
 .marxist.net
 .marxists.org
+.mas.to
 .mash.to
 .mastodon.cloud
 .mastodon.host
@@ -2246,6 +2271,7 @@
 .media.nu.nl
 .mediachinese.com
 .mediafreakcity.com
+.mediamatters.org
 .mediawiki.org
 .medium.com
 .meee.com.tw
@@ -2325,6 +2351,7 @@
 .mizzmona.com
 .mji.rip
 .mjj.rip
+.mjj.today
 .mjlsh.usc.cuhk.edu.hk
 .mlc.ai
 .mlzs.work
@@ -2362,6 +2389,7 @@
 .motherless.com
 .movements.org
 .moviefap.com
+.mozilla.ai
 .mpettis.com
 .mpfinance.com
 .mpinews.com
@@ -2374,6 +2402,7 @@
 .mubi.com
 .mullvad.net
 .multiply.com
+.music.amazon.com
 .musixmatch.com
 .muzi.com
 .muzi.net
@@ -2424,6 +2453,7 @@
 .ndi.org
 .nekoslovakia.net
 .neo-miracle.com
+.neodb.social
 .neowin.net
 .nephobox.com
 .netalert.me
@@ -2447,10 +2477,12 @@
 .news18.com
 .newsancai.com
 .newsblur.com
+.newshub.co.nz
 .newsmax.com
 .newstamago.com
 .newstapa.org
 .newstatesman.com
+.newstimes.com
 .newsweek.com
 .newtalk.tw
 .newthuhole.com
@@ -2465,6 +2497,8 @@
 .nflximg.net
 .nflxso.net
 .nflxvideo.net
+.nfsc.press
+.nfscofficial.com
 .nftstorage.link
 .nga.mil
 .nhentai.net
@@ -2610,6 +2644,7 @@
 .ourtv.hk
 .overcast.fm
 .overdaily.org
+.overdrive.com
 .overplay.net
 .oversea.istarshine.com
 .ovpn.com
@@ -2661,6 +2696,7 @@
 .pemulihan.or.id
 .pen.io
 .pendrivelinux.com
+.penguin.com.au
 .pentoy.hk
 .peoplenews.tw
 .peopo.org
@@ -2868,6 +2904,7 @@
 .raizoji.or.jp
 .rakuten.co.jp
 .ramcity.com.au
+.raphael.app
 .rapidmoviez.com
 .rapidvpn.com
 .rarbgprx.org
@@ -2946,6 +2983,8 @@
 .rti.org.tw
 .rti.tw
 .rtm.tnt-ea.com
+.rts.ch
+.rule34.us
 .rule34.xxx
 .rule34video.com
 .rumble.com
@@ -2980,9 +3019,6 @@
 .saveuighur.org
 .sbme.me
 .sbti.unun.dev
-.scache.vzw.com
-.scache1.vzw.com
-.scache2.vzw.com
 .schema.org
 .scmp.com
 .scramble.io
@@ -3051,6 +3087,7 @@
 .shwchurch.org
 .shwchurch3.com
 .sidelinesnews.com
+.sider.ai
 .signal.org
 .silvergatebank.com
 .simbolostwitter.com
@@ -3060,6 +3097,7 @@
 .simpleswap.io
 .simplex.chat
 .sina.com.hk
+.sinchew.com.my
 .singaporepools.com.sg
 .singlelogin.se
 .singtao.com
@@ -3103,7 +3141,7 @@
 .socks-proxy.net
 .sockslist.net
 .socrec.org
-.softether-download.com
+.softether.co.jp
 .softether.org
 .softfamous.com
 .softwarebychuck.com
@@ -3124,6 +3162,7 @@
 .sos.org
 .sosad.fun
 .sosreader.com
+.sotwe.com
 .soubory.com
 .soulcaliburhentai.net
 .soundcloud.com
@@ -3162,7 +3201,6 @@
 .sproutcore.com
 .squirrelvpn.com
 .ss-link.com
-.ss7.vzw.com
 .ssglobal.co
 .ssl.webpack.de
 .sspanel.net
@@ -3313,6 +3351,8 @@
 .tfiflve.com
 .tg-me.com
 .tg.dev
+.tgstat.com
+.the-sun.com
 .theatlantic.com
 .theatrum-belli.com
 .thebcomplex.com
@@ -3345,6 +3385,7 @@
 .thetatoken.org
 .thetibetpost.com
 .thetvdb.com
+.theweek.com
 .thewgo.org
 .thewirechina.com
 .theync.com
@@ -3518,6 +3559,7 @@
 .tv.jtbc.joins.com
 .tvbanywhere.com
 .tvboxnow.com
+.tvdy1.com
 .tvunetworks.com
 .tw-blog.com
 .tw.jiepang.com
@@ -3603,6 +3645,7 @@
 .ultrasurf.us
 .ultravpn.com
 .ultravpn.fr
+.umap.openstreetmap.fr
 .unblock-us.com
 .unblock.cn.com
 .unblockdmm.com
@@ -3674,6 +3717,7 @@
 .vatn.org
 .vcf-online.org
 .vcfbuilder.org
+.veed.io
 .vegas.williamhill.com
 .vegasred.com
 .venetianmacao.com
@@ -3725,6 +3769,7 @@
 .voicettank.org
 .vot.org
 .vovo2000.com
+.vox.com
 .voxer.com
 .vpl.bibliocommons.com
 .vpn.ac
@@ -3900,6 +3945,7 @@
 .workatruna.com
 .workerempowerment.org
 .workers.dev
+.worldjournal.com
 .worldvpn.net
 .wowgirls.com
 .wowhead.com
@@ -4040,7 +4086,6 @@
 .yfsp.tv
 .yhcw.net
 .yibaochina.com
-.yidio.com
 .yigeni.com
 .yipub.com
 .yizhihongxing.com
@@ -4103,6 +4148,7 @@
 .zh.pokerstrategy.com
 .zh.wikiquote.org
 .zhangtianliang.com
+.zhangzhehan.net
 .zhanlve.org
 .zhao.1984.city
 .zhengjian.org

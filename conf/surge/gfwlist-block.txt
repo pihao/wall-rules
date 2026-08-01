@@ -13,6 +13,7 @@
 .173ng.com
 .18board.com
 .18comic.org
+.18comic.vip
 .18mh.net
 .1984bbs.com
 .1991way.com
@@ -709,6 +710,7 @@
 .cia.gov
 .cici.com
 .ciciai.com
+.circle19.org
 .cirosantilli.com
 .citizencn.com
 .citizenlab.ca
@@ -721,6 +723,7 @@
 .civitai.com
 .cixiaoya.club
 .ck101.com
+.clashyun.com
 .classicalguitarblog.net
 .claude.ai
 .claude.com
@@ -2108,6 +2111,7 @@
 .kantie.org
 .kaotic.com
 .karayou.com
+.kards.com
 .kathmandupost.com
 .kawaiikawaii.jp
 .kawase.com
@@ -2192,6 +2196,7 @@
 .leonardo.ai
 .lesoir.be
 .letscorp.net
+.level-plus.net
 .lexica.art
 .lhakar.org
 .li.taipei
@@ -3372,6 +3377,7 @@
 .syncback.com
 .synergyse.com
 .syosetu.com
+.sysub.com
 .t-g.com
 .t.co
 .t.me
@@ -3585,6 +3591,7 @@
 .togetter.com
 .token.im
 .tokenlon.im
+.tokenplus.app
 .tokyo-porn-tube.com
 .tokyocn.com
 .tomp3.cc
@@ -3626,6 +3633,7 @@
 .truebuddha-md.org
 .trustwallet.com
 .truthsocial.com
+.tryai.dev
 .tryheart.jp
 .tsdr.uspto.gov
 .tt1069.com
@@ -3806,6 +3814,7 @@
 .uyghurtribunal.com
 .uygur.fc2web.com
 .uymaarip.com
+.v.recipes
 .v2.help
 .v2.hysteria.network
 .v2ex.com
@@ -3951,6 +3960,7 @@
 .webpkgcache.com
 .webrtc.org
 .websdr.org
+.webshare.io
 .website.new
 .webwarper.net
 .wechatlawsuit.com
@@ -4248,6 +4258,7 @@
 .zello.com
 .zenmate.com
 .zenmate.com.ru
+.zenmux.ai
 .zerohedge.com
 .zeronet.io
 .zh-hans.cfsh99.com

@@ -24,6 +24,7 @@
 .safebrowsing.googleapis.com
 .ssl.gstatic.com
 .static.typepad.com
+.tokenplus.app
 .tools.google.com
 .update.googleapis.com
 .www.ampproject.org
